@@ -375,12 +375,5 @@ The dataset is associated with REES46. Refer to the original dataset page for it
 
 Raw dataset files are not redistributed in this repository.
 
-## 11. Author
-
-**Om Dangmali**
-
-Data Analytics | Python | SQL | PostgreSQL | Power BI
-
----
 
 *This project is intended for analytical and educational purposes. Findings represent patterns observed in the available dataset and should be interpreted in light of the stated methodological limitations.*
