@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw datasets - retain README only
+data/raw/*
+!data/raw/README.md
+
+# Processed datasets - retain README only
+data/processed/*
+!data/processed/README.md
+
+# Temporary export files
+*_temp.csv
